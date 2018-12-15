@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: dosis, Georgia;
+  font-family: Georgia;
   line-height: 1.5;
   background-color: #f0eee8;
 }
@@ -12,18 +12,6 @@ html {
 a {
   text-decoration: none;
 }
-
-.btn {
-  font-family: Dosis, sans-serif;
-  font-weight: bold;
-  font-size: 1.125rem;
-  text-align: center;
-  color: #fff;
-  padding: .4em .75em .5em;
-  background-color: #785439;
-  border: 3px solid #785439;
-  border-radius: 8px;
-  display: inline-block;
 
 .link-card {
   background-color: #dcd4cd;
@@ -79,4 +67,17 @@ dd {
 .link-card:hover .btn {
   background-color: #512200;
   border-color: #512200;
+}
+
+.btn {
+  font-family: Dosis, sans-serif;
+  font-weight: bold;
+  font-size: 1.125rem;
+  text-align: center;
+  color: #fff;
+  padding: .4em .75em .5em;
+  background-color: #785439;
+  border: 3px solid #785439;
+  border-radius: 8px;
+  display: inline-block;
 }
